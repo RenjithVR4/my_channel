@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="BeanoTV.uk" tvg-logo="https://i.imgur.com/IKHFZDJ.png" group-title="Kids",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",DC Kids Français
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dckids.com/themes/custom/dckids/logo.png" group-title="Kids",DC Kids Français
 https://ythls.onrender.com/channel/UCuju5K7RVyqTZ0xVPbb3Zvg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/564x/78/4c/a1/784ca1d92a52169138cbbee01b76cce4.jpg" group-title="Kids",Baby Alive Français
