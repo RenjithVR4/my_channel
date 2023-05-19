@@ -52,8 +52,6 @@ https://www.youtube.com/@dwnews/live
 ABC News | English News | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-Sky News | English News | https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/512px-Sky-news-logo.svg.png |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 Fox | English News | https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png |
 https://www.youtube.com/@livenowfox/live
