@@ -9,3 +9,7 @@ cd $(dirname $0)/scripts/
 python3 youtube_m3ugrabber.py > ../youtube.m3u
 
 echo m3u grabbed
+
+cat youtube.m3u channels.m3u > list.m3u 
+
+
