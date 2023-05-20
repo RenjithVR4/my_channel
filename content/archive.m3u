@@ -1,10 +1,22 @@
 
 
-#EXTINF:-1 tvg-id="eduTV.rs" tvg-logo="https://i.imgur.com/dWQC2tn.png" group-title="archive",eduTV
+#EXTINF:-1 tvg-id="eduTV.rs" tvg-logo="https://i.imgur.com/dWQC2tn.png" group-title="Archive",eduTV
 https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust
+#EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Archive",Dust
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Movies",BBC America 
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Archive",BBC America 
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sub.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="Archive",TLC
+https://live-fi.tvkaista.net/tlc/live.m3u8
+
+
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" group-title="Archive",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="Archive",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="Rev'n" tvg-logo="https://imgur.com/VUhqVgG.png" tvg-id="RevnTV.us" group-title="Archive",Rev'n
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8

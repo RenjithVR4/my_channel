@@ -5,6 +5,18 @@
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="English News",EURONEWS
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="English News",CA | Global News,Global News
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="English News", Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" tvg-id="ABCNews.au" group-title="English News",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="English News",Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="English News",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="English News",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
