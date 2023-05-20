@@ -7,10 +7,9 @@ https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefeb
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",beIN Sports Xtra
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 
-#EXTINF:-1 tvg-id="NWSport1.tg" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png" group-title="Sports",NW Sport 1 (576p)
+#EXTINF:-1 tvg-id="NWSport1.tg" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png" group-title="Sports",NW Sport 1
 https://hls.newworldtv.com/nw-sport-1/video/live.m3u8
-#EXTINF:-1 tvg-id="NWSport2.tg" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png" group-title="Sports",NW Sport 2 (576p)
-https://hls.newworldtv.com/nw-sport-2/video/live.m3u8
+
 
 #EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
