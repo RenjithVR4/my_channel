@@ -20,6 +20,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="English News",NHK World-Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
-#EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
+#EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="English News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
 
