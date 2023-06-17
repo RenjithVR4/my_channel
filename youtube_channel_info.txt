@@ -7,7 +7,6 @@
 24 News News | Malayalam News | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://www.youtube.com/c/24OnLive/live
 
-
 Asianet News | Malayalam News | https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png |
 https://www.youtube.com/user/asianetnews/live
 
@@ -24,9 +23,12 @@ News 18 Kerala | Malayalam News | https://upload.wikimedia.org/wikipedia/commons
 https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 
 Kaumudy TV | Malayalam News | https://i.imgur.com/hnv8rgs.jpeg |
-https://www.youtube.com/@kaumudylive/live
+https://www.youtube.com/@keralakaumudi360/live
 
 Janam TV | Malayalam News | https://i.imgur.com/NMDqooF.png | 
+https://www.youtube.com/@JanamLiveTV/live
+
+Jaihind TV | Malayalam News | https://i.imgur.com/RNAhxK2.jpg | 
 https://www.youtube.com/@JanamLiveTV/live
 
 Kairali News | Malayalam News | https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg | 
@@ -38,6 +40,9 @@ https://www.youtube.com/@ZeeMalayalamNews/live
 Kerala Vision News | Malayalam News | https://i.imgur.com/RwYRTX0.jpg |
 https://www.youtube.com/@keralavisionnews24x7/live
 
+Raj News Malayalam | Malayalam News | https://i.imgur.com/OfPVkqN.jpg |
+https://www.youtube.com/@RajNewsMalayalamOnline/live
+
 Real News Kerala | Malayalam News | https://i.imgur.com/bD34GVw.jpg |
 https://www.youtube.com/@RealNewsKeralaOfficial/live
 
@@ -46,7 +51,6 @@ https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 
 DW News | English News | https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png |
 https://www.youtube.com/@dwnews/live
-
 
 Fox | English News | https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png |
 https://www.youtube.com/@livenowfox/live
