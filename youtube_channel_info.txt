@@ -29,7 +29,7 @@ Janam TV | Malayalam News | https://i.imgur.com/NMDqooF.png |
 https://www.youtube.com/@JanamLiveTV/live
 
 Jaihind TV | Malayalam News | https://i.imgur.com/RNAhxK2.jpg | 
-https://www.youtube.com/@JanamLiveTV/live
+https://www.youtube.com/@jaihindtvofficial/live
 
 Kairali News | Malayalam News | https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg | 
 https://www.youtube.com/@KairaliNewsLive/live
@@ -45,9 +45,6 @@ https://www.youtube.com/@RajNewsMalayalamOnline/live
 
 Real News Kerala | Malayalam News | https://i.imgur.com/bD34GVw.jpg |
 https://www.youtube.com/@RealNewsKeralaOfficial/live
-
-DW News | English News | https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png |
-https://www.youtube.com/@dwnews/live
 
 Fox | English News | https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png |
 https://www.youtube.com/@livenowfox/live
@@ -67,8 +64,14 @@ https://www.youtube.com/@NDTV/live
 Times Now | English News | https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Times_Now_2010.png/220px-Times_Now_2010.png |
 https://www.youtube.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w/live
 
+WION| English News | https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png |
+https://www.youtube.com/@WION/live
+
 Nat Geo Wild | Nature | https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png |
 https://www.youtube.com/@NatGeoWild/live
+
+Potta Daily Convention | Malayalam | https://i.imgur.com/7KY0lzO.jpg |
+https://www.youtube.com/@pottavision/live
 
 
 
