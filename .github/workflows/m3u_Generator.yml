@@ -39,9 +39,8 @@ jobs:
 
       - name: Main
         run: |
-          pwd
-          git init
-          chmod +x ./autorun.sh
+          pwd         
+          chmod +x autorun.sh
           ./autorun.sh
 
       - name: git add
