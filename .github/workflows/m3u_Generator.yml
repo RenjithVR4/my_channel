@@ -40,8 +40,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          
-          git update-index --chmod=+x ./autorun.sh
+          git init
+          chmod +x ./autorun.sh
           ./autorun.sh
 
       - name: git add
