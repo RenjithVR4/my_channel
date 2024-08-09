@@ -40,6 +40,7 @@ jobs:
       - name: Main
         run: |
           pwd
+          git init
           git update-index --chmod=+x ./autorun.sh
           ./autorun.sh
 
