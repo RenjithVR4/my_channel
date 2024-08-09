@@ -95,6 +95,9 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-id="", Baby Shark TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
+#EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" tvg-id="", EURONEWS
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
 
 
 #EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="Malayalam News",Malabar News
