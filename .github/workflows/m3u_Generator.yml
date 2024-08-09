@@ -1,6 +1,5 @@
 # This is a basic workflow to help you get started with Actions
 
-
 name: M3U generator
 
 # Controls when the action will run. 
@@ -25,7 +24,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/setup-node@v4.0.3
+      - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
       #- name: Run a one-line script
@@ -39,7 +38,7 @@ jobs:
 
       - name: Main
         run: |
-          pwd         
+          pwd
           chmod +x autorun.sh
           ./autorun.sh
 
